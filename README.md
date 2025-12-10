@@ -26,8 +26,8 @@ eaton-palisades-fires-analysis/
 │
 ├── README.md
 ├── notebooks/
-│   ├── false-color-analysis.ipynb          # Landsat 8 false color visualization
-│   └── environmental-justice-analysis.ipynb # EJI socioeconomic analysis
+│   ├── false-color-analysis.ipynb           # Landsat 8 false color visualization
+│   └── environmental-justice-analysis.ipynb # EJI analysis
 ├── .gitignore
 └── data/                                    # See Data section below
 ```
